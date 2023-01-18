@@ -16,7 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-##ScreeenShot
+## ScreeenShot
 
-<img src = "https://user-images.githubusercontent.com/121153077/213104408-ab9e8eb2-1dd6-4077-89ff-952ee261dd40.png
-">
+<img src = "https://user-images.githubusercontent.com/121153077/213104408-ab9e8eb2-1dd6-4077-89ff-952ee261dd40.png">
